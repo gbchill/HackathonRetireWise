@@ -29,7 +29,8 @@ To get started with RetireWise, follow these simple steps:
 
 1. Clone this repository: `git clone https://github.com/yourusername/retirewise.git`
 2. Navigate to the project directory: `cd retirewise`
-3.  Install project dependencies, including React: `npm install`
+3. Navigate to the project directory: `cd retirewise`
+3. Install dependencies: `npm install`
 4. Launch the application: `npm start`
 5. Access RetireWise in your web browser at `http://localhost:3000`
 
