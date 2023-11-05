@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-![image](https://github.com/gbchill/RetireWise/assets/110639301/36955e2d-b429-4576-948f-dc273ad87c2e)# RetireWise
-=======
+
 # RetireWise
->>>>>>> origin
+=======
+
 Empowering Financial Literacy and Secure Retirement Planning for the Youth
 In an era characterized by a deluge of misinformation and a growing sense of financial neglect, the importance of planning for the future, especially among the younger generation (Gen Z), cannot be overstated. Recognizing this imperative, we present RetireWise - a comprehensive, user-friendly retirement literacy app designed to bridge the gap between financial ignorance and a secure retirement future.
 
@@ -23,8 +22,6 @@ Join us in reshaping the financial future of the younger generation - one secure
 Getting Started
 Provide instructions on how to get started with your project. This could include details on installation, configuration, and any prerequisites. If there's a demo version or a live website, mention that as well.
 
-markdown
-Copy code
 ### Getting Started
 
 To get started with RetireWise, follow these simple steps:
@@ -37,11 +34,6 @@ To get started with RetireWise, follow these simple steps:
 Usage
 Provide more detailed examples and instructions for using your app. For instance, show how to access simulations, take quizzes, and utilize the resources effectively.
 
-<<<<<<< HEAD
-markdown
-Copy code
-=======
->>>>>>> origin
 ### Usage
 
 RetireWise offers an intuitive user interface for seamless navigation:
@@ -56,15 +48,7 @@ Explore the app and make the most of its features for a secure financial future!
 Screenshots
 Including a few screenshots of your app in action can be a great addition. Visuals help users understand what to expect.
 
-markdown
-Copy code
 ### Screenshots
-<<<<<<< HEAD
-
-![Simulation Screen](../pictures/Screenshot%202023-11-05%20at%202.52.48 AM.png)
-![Quiz Screen](../pictures/Screenshot%202023-11-05%20at%202.55.15 AM.png)
-![Resources Screen](../pictures/Screenshot%202023-11-05%20at%203.00.08 AM.png)
-
 
 =======
 ![Index Screen](https://github.com/gbchill/RetireWise/assets/110639301/7a1d0c1a-4087-4bdd-8756-4ee1c924303e)
@@ -77,16 +61,14 @@ Copy code
 Demo
 If you have a live demo or hosted version of your project, provide a link and brief instructions on how to access it.
 
->>>>>>> origin
 markdown
 Copy code
 ### Demo
 
-<<<<<<< HEAD
-Check out the live demo of RetireWise at .
+
 =======
 Check out the live demo of RetireWise at [https://www.retirewise-demo.com](https://www.retirewise-demo.com).
->>>>>>> origin
+
 
 
 ### Contact
@@ -99,9 +81,3 @@ If you have any questions or would like to get in touch with the team behind Ret
 - **Shriyans Mishra** - [github](mailto:https://https://github.com/shr2004i)
 - **Tanvi Goyal** - [github](mailto:https://github.com/Tanvi0501)
 
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> origin
