@@ -22,6 +22,8 @@ RetireWise is rooted in its deep understanding of the needs and expectations of 
 In a world that is increasingly complex and uncertain, RetireWise is your reliable companion on the journey to financial security and a worry-free retirement.
 
 Join us in reshaping the financial future of the younger generation - one secure retirement plan at a time.
+Prerequisite:
+Before you begin, make sure you have Node.js, React, and Vite installed on your system. If you haven't already installed them, you can do so by following the official installation instructions for each of them.
 
 ## Getting Started
 
@@ -29,7 +31,7 @@ To get started with RetireWise, follow these simple steps:
 
 1. Clone this repository: `git clone https://github.com/yourusername/retirewise.git`
 2. Navigate to the project directory: `cd retirewise`
-3. Navigate to the project directory: `cd retirewise`
+3. Navigate to the project directory: `cd client`
 3. Install dependencies: `npm install`
 4. Launch the application: `npm start`
 5. Access RetireWise in your web browser at `http://localhost:3000`
