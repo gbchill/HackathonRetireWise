@@ -1,7 +1,5 @@
 # RetireWise
 
-![RetireWise Logo](https://link-to-your-logo-image.png)
-
 **Empowering Financial Literacy and Secure Retirement Planning for the Youth**
 
 In an era characterized by a deluge of misinformation and a growing sense of financial neglect, the importance of planning for the future, especially among the younger generation (Gen Z), cannot be overstated. Recognizing this imperative, we present RetireWise - a comprehensive, user-friendly retirement literacy app designed to bridge the gap between financial ignorance and a secure retirement future.
@@ -31,7 +29,7 @@ To get started with RetireWise, follow these simple steps:
 
 1. Clone this repository: `git clone https://github.com/yourusername/retirewise.git`
 2. Navigate to the project directory: `cd retirewise`
-3. Install dependencies: `npm install`
+3.  Install project dependencies, including React: `npm install`
 4. Launch the application: `npm start`
 5. Access RetireWise in your web browser at `http://localhost:3000`
 
@@ -47,12 +45,6 @@ RetireWise offers an intuitive user interface for seamless navigation:
 
 Explore the app and make the most of its features for a secure financial future!
 
-## Screenshots
-
-![Index Screen](https://github.com/gbchill/RetireWise/assets/110639301/7a1d0c1a-4087-4bdd-8756-4ee1c924303e)
-![Game Screen](https://github.com/gbchill/RetireWise/assets/110639301/36955e2d-b429-4576-948f-dc273ad87c2e)
-![Quiz Screen](https://github.com/gbchill/RetireWise/assets/110639301/5a11f44a-aa2f-4200-abaf-defd1f6bce87)
-![ChatBot Screen](https://github.com/gbchill/RetireWise/assets/110639301/80d5def7-9961-4edc-bbf5-49b7b5eb7060)
 
 ## Demo
 
