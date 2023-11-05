@@ -33,7 +33,7 @@ To get started with RetireWise, follow these simple steps:
 2. Navigate to the project directory: `cd retirewise`
 3. Navigate to the project directory: `cd client`
 3. Install dependencies: `npm install`
-4. Launch the application: `npm start`
+4. Launch the application: `npm run dev`
 5. Access RetireWise in your web browser at `http://localhost:3000`
 
 ## Usage
